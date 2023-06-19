@@ -1,7 +1,7 @@
 # Welcome to my GitHub ☕
 
 ## 
-🇧🇷
+### 🇧🇷
 
 ### Sobre mim
 
@@ -10,7 +10,7 @@
   - 🌱 Aprendendo Python e Django...
     
 ## 
-🇺🇸
+### 🇺🇸
 
 ### About me
 
