@@ -8,7 +8,7 @@
   - 📖 Estudante de Análise e Desenvolvimento de Sistemas
   - 🔭 Atualmente trabalhando na Tecnologia da Prefeitura Municial de Mogi Guaçu
   - ☕ Experiencia em Java, Pyton, JavaScript, Node.js, React, C# e API's RESTful
-  - 🌱 Aprendendo Python e Django...
+  - 🌱 Aprendendo Go...
     
 ## 
 ### 🇺🇸
@@ -17,8 +17,8 @@
 
   - 📖 Systems Analysis and Development student
   - 🔭 I’m currently working on Mogi Guaçu City Hall Technology
-  - ☕ Experience in Java, Pyton, JavaScript, Node.js, React, C# e API's RESTful
-  - 🌱 Learning Python and Django...
+  - ☕ Experience in Java, Pyton, JavaScript, Node.js, React, C# and RESTful API
+  - 🌱 Learning Go...
     
 ##
 ### Languages
